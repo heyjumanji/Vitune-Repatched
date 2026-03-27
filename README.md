@@ -1,4 +1,8 @@
 <div align="center">
+> [!NOTE]
+> I’m currently working on a fresh new website so you’ll be able to download the APK directly. I’ll also update the repository once I’ve fixed a few things and the app is ready to be published. Thanks for your interest, really looking forward to it!
+
+<div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="120" height="120" />
     <h1>🎵 ViTune Repatched</h1>
     <p><b>Continuing the legacy of a legendary Android app for streaming music from YouTube Music</b></p>
