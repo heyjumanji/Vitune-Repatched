@@ -1,6 +1,6 @@
-<div align="center">
 > [!NOTE]
 > I’m currently working on a fresh new website so you’ll be able to download the APK directly. I’ll also update the repository once I’ve fixed a few things and the app is ready to be published. Thanks for your interest, really looking forward to it!
+
 
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="120" height="120" />
