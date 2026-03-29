@@ -42,7 +42,9 @@
 - ⚖️ Audio normalization for consistent volume  
 - 🚗 Android Auto support  
 - 🔗 Open YouTube & YouTube Music links directly in ViTune  
-- ⚡ Extremely lightweight APK  
+- ⚡ Extremely lightweight APK
+- 🎤 Better Lyrics to support lyrics sync
+- ⭐ Highest quality on yt premium (Opus 256k)
 
 ---
 
@@ -50,7 +52,6 @@
 
 - [ ] Import playlist from Spotify.
 - [ ] Add Lossless audio support
-- [ ] Add Better Lyrics to support lyrics sync
 - [ ] UI/UX refinements and animations 
 - [ ] Bug fixes and performance improvements  
 
