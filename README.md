@@ -45,6 +45,7 @@
 - ⚡ Extremely lightweight APK
 - 🎤 Better Lyrics to support lyrics sync
 - ⭐ Highest quality on yt premium (Opus 256k)
+- Lastfm Integration build in
 
 ---
 
