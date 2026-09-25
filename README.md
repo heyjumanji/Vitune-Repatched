@@ -1,5 +1,5 @@
 > [!NOTE]
-> I’m currently working on a fresh new website so you’ll be able to download the APK directly. I’ll also update the repository once I’ve fixed a few things and the app is ready to be published. Thanks for your interest, really looking forward to it!
+> App development is on a rocket speed, soon you will see updates.
 
 
 <div align="center">
